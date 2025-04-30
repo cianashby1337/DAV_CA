@@ -50,6 +50,17 @@ Social Factors Literature Review:
 - Urbański, M. (2022). *Comparing Push and Pull Factors Affecting Migration* [online]. Available from: https://www.mdpi.com/2227-7099/10/1/21 [accessed 27 April 2025]. 
 - Zanabazar, A. Kho, NS. Jigjiddori, S. (2021). *The Push and Pull Factors Affecting the Migration of Mongolians to the Republic of South Korea* [online]. Available from: https://www.researchgate.net/publication/348301781_The_Push_and_Pull_Factors_Affecting_the_Migration_of_Mongolians_to_the_Republic_of_South_Korea [accessed 27 April 2025].
 
+<br>
+
+Political Factors Literature Review:
+- Adserà, A. Boix, C. Guzi, M. and Pytliková, M. (2016). *Political Factors as Drivers of International Migration* [online]. Available from: https://epc2016.eaps.nl/papers/160868 [accessed 28 April 2025].
+- Bergh, A. Mirkina, I. and Nilsson, T. (2015). *Pushed by Poverty or by Institutions? Determinants of Global Migration Flows* [online]. Available from: https://www.ifn.se/media/2gjjr1er/wp1077.pdf [accessed 28 April 2025].
+- Harding, L. and Panzaru, C. (2024). *How Transit Countries Become Refugee Destinations: Insights from Central and Eastern Europe* [online]. Available from: https://arxiv.org/pdf/2411.08350 [accessed 30 April 2025].
+- Helliwell, J. Wang, S. Xu, J. (2015). *How Durable are Social Norms? Immigrant Trust and Generosity in 132 Countries* [online]. Available from: https://www.researchgate.net/publication/280482491_How_Durable_are_Social_Norms_Immigrant_Trust_and_Generosity_in_132_Countries [accessed 27 April 2025]. 
+- Poprawe, M. (2015). *On the relationship between corruption and migration: empirical evidence from a gravity model of migration* [online]. Available from: https://link.springer.com/article/10.1007/s11127-015-0255-x [accessed 30 April 2025]. 
+- Rosenblum, MR. (2003). *The Political Determinants of Migration Control: A Quantitative Analysis* [online]. Available from: https://www.scielo.org.mx/scielo.php?pid=S1665-89062003000100007&script=sci_arttext [accessed 30 April 2025].
+- Urbański, M. (2022). *Comparing Push and Pull Factors Affecting Migration* [online]. Available from: https://www.mdpi.com/2227-7099/10/1/21 [accessed 28 April 2025].
+
 ## AI Usage
 AI Generated Content - References
 ScienceDirect. *Institutional Trust - an overview | ScienceDirect Topics* (2025). Available from: https://www.sciencedirect.com/topics/computer-science/institutional-trust [accessed 27 April 2025].
@@ -59,3 +70,4 @@ LLM Chats in Establishing Theoretical Framework - References
 - Gemini. (2025). *Gemini - Economic Migration Study Search Plan* [online]. Available from: https://g.co/gemini/share/b6488c714b49 [accessed 15 April 2025].
 - Gemini. (2025). *Gemini - Migration Studies Table Creation Request* [online]. Available from: https://g.co/gemini/share/23bfee8c552f [accessed 15 April 2025].
 - Gemini. (2025). *Gemini - Social Factors in Migration Studies* [online]. Available from: https://g.co/gemini/share/7e2a1bcf42cc [accessed 27 April 2025].
+- ChatGPT. (2025). *Political Factors Migration Studies* [online]. Available from: https://chatgpt.com/share/6812a065-e1a0-800c-b6f6-6643e8025412 [accessed 30 April 2025].
