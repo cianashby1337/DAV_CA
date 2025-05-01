@@ -77,6 +77,12 @@ Economic
 - TRADING ECONOMICS (2024). *Home Ownership Rate - Countries - List* [online]. Available from: https://tradingeconomics.com/country-list/home-ownership-rate [accessed 1 May 2025].
 - World Bank Group. (2024). *World Development Indicators | DataBank* [online]. Available from: https://databank.worldbank.org/source/world-development-indicators# [accessed 1 May 2025].
 
+Social
+- International Telecommunication Union. (2024). *Population coverage, by mobile network technology - ITU DataHub* [online]. Available from: https://datahub.itu.int/data/?i=100095 [accessed 1 May 2025].
+- marcelobatalhah. (2025). *Quality of Life Index by Country 🌎🏡* [online]. Available from: https://www.kaggle.com/datasets/marcelobatalhah/quality-of-life-index-by-country?resource=download [accessed 1 May 2025].
+- World Bank Group. (2024). *World Development Indicators | DataBank* [online]. Available from: https://databank.worldbank.org/source/world-development-indicators# [accessed 1 May 2025].
+- World Population Review. (2025). *Crime Rate by Country 2025* [online]. Available from: https://worldpopulationreview.com/country-rankings/crime-rate-by-country [accessed 1 May 2025].
+
 ## AI Usage
 AI Generated Content - References
 - ScienceDirect. *Institutional Trust - an overview | ScienceDirect Topics* (2025). Available from: https://www.sciencedirect.com/topics/computer-science/institutional-trust [accessed 27 April 2025].
