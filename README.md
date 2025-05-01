@@ -77,6 +77,7 @@ Political
 Economic
 - International Labour Organization. (2025). *ILOSTAT Data Explorer* [online]. Available from: https://rshiny.ilo.org/dataexplorer4/ [accessed 1 May 2025].
 - TRADING ECONOMICS (2024). *Home Ownership Rate - Countries - List* [online]. Available from: https://tradingeconomics.com/country-list/home-ownership-rate [accessed 1 May 2025].
+- International Monetary Fund. (2024). *World Revenue Longitudinal Database* [online]. Available from: https://www.imf.org/en/Topics/fiscal-policies/world-revenue-longitudinal-database [accessed 1 May 2025].
 
 Social
 - International Telecommunication Union. (2024). *Population coverage, by mobile network technology - ITU DataHub* [online]. Available from: https://datahub.itu.int/data/?i=100095 [accessed 1 May 2025].
