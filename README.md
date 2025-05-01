@@ -3,7 +3,7 @@ For this project, I wish to construct a composite index from at least 4 other su
 
 The running idea for this project is an indicator that asks “What makes a country more or less attractive to live in?”
 
-## Literary References
+## Literary References for Theoretical Framework
 Steps in creating the composite index: 
 - Dunn, J. (2020). *Handbook on Constructing Composite Indicators METHODOLOGY AND USER GUIDE* [online]. Available from: https://www.researchgate.net/publication/343404133_Handbook_on_Constructing_Composite_Indicators_METHODOLOGY_AND_USER_GUIDE [accessed 15 March 2025].
 
@@ -63,7 +63,8 @@ Political Factors Literature Review:
 
 <br>
 
-Data Retrieval
+## Data Extraction Sources
+Political
 - International Labour Organization. (2020). *Statistics on social dialogue - ILOSTAT* [online]. Available from: https://ilostat.ilo.org/topics/industrial-relations/ [accessed 1 May 2025].
 - UCDP. (2023). *UCDP - Uppsala Conflict Data Program* [online]. Available from: https://ucdp.uu.se/year/2023 [accessed 1 May 2025].
 - World Bank Group. (2023). *World Development Indicators | DataBank* [online]. Available from: https://databank.worldbank.org/source/world-development-indicators [accessed 1 May 2025].
@@ -71,9 +72,14 @@ Data Retrieval
 - World Justice Project. (2024). *WJP Rule of Law Index* [online]. Available from: https://worldjusticeproject.org/rule-of-law-index/global/2024/Fundamental%20Rights/table [accessed 1 May 2025].
 - World Values Survey Association. (2022). *WVS Database* [online]. Available from: https://www.worldvaluessurvey.org/WVSOnline.jsp [accessed 1 May 2025].
 
+Economic
+- International Labour Organization. (2025). *ILOSTAT Data Explorer* [online]. Available from: https://rshiny.ilo.org/dataexplorer4/ [accessed 1 May 2025].
+- TRADING ECONOMICS (2024). *Home Ownership Rate - Countries - List* [online]. Available from: https://tradingeconomics.com/country-list/home-ownership-rate [accessed 1 May 2025].
+- World Bank Group. (2024). *World Development Indicators | DataBank* [online]. Available from: https://databank.worldbank.org/source/world-development-indicators# [accessed 1 May 2025].
+
 ## AI Usage
 AI Generated Content - References
-ScienceDirect. *Institutional Trust - an overview | ScienceDirect Topics* (2025). Available from: https://www.sciencedirect.com/topics/computer-science/institutional-trust [accessed 27 April 2025].
+- ScienceDirect. *Institutional Trust - an overview | ScienceDirect Topics* (2025). Available from: https://www.sciencedirect.com/topics/computer-science/institutional-trust [accessed 27 April 2025].
 
 LLM Chats in Establishing Theoretical Framework - References
 - ChatGPT. (2025). *Political Factors Migration Studies* [online]. Available from: https://chatgpt.com/share/6812a065-e1a0-800c-b6f6-6643e8025412 [accessed 30 April 2025].
