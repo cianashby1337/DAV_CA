@@ -61,13 +61,26 @@ Political Factors Literature Review:
 - Rosenblum, MR. (2003). *The Political Determinants of Migration Control: A Quantitative Analysis* [online]. Available from: https://www.scielo.org.mx/scielo.php?pid=S1665-89062003000100007&script=sci_arttext [accessed 30 April 2025].
 - Urbański, M. (2022). *Comparing Push and Pull Factors Affecting Migration* [online]. Available from: https://www.mdpi.com/2227-7099/10/1/21 [accessed 28 April 2025].
 
+<br>
+
+Data Retrieval
+- International Labour Organization. (2020). *Statistics on social dialogue - ILOSTAT* [online]. Available from: https://ilostat.ilo.org/topics/industrial-relations/ [accessed 1 May 2025].
+- UCDP. (2023). *UCDP - Uppsala Conflict Data Program* [online]. Available from: https://ucdp.uu.se/year/2023 [accessed 1 May 2025].
+- World Bank Group. (2023). *World Development Indicators | DataBank* [online]. Available from: https://databank.worldbank.org/source/world-development-indicators [accessed 1 May 2025].
+- World Bank Group. (2024). *Home | Worldwide Governance Indicators* [online]. Available from: https://www.worldbank.org/en/publication/worldwide-governance-indicators [accessed 1 May 2025].
+- World Justice Project. (2024). *WJP Rule of Law Index* [online]. Available from: https://worldjusticeproject.org/rule-of-law-index/global/2024/Fundamental%20Rights/table [accessed 1 May 2025].
+- World Values Survey Association. (2022). *WVS Database* [online]. Available from: https://www.worldvaluessurvey.org/WVSOnline.jsp [accessed 1 May 2025].
+
 ## AI Usage
 AI Generated Content - References
 ScienceDirect. *Institutional Trust - an overview | ScienceDirect Topics* (2025). Available from: https://www.sciencedirect.com/topics/computer-science/institutional-trust [accessed 27 April 2025].
 
 LLM Chats in Establishing Theoretical Framework - References
+- ChatGPT. (2025). *Political Factors Migration Studies* [online]. Available from: https://chatgpt.com/share/6812a065-e1a0-800c-b6f6-6643e8025412 [accessed 30 April 2025].
 - Gemini. (2025). *Gemini - Country Attractiveness Index Data Sources* [online]. Available from: https://g.co/gemini/share/83a744e98278 [accessed 22 March 2025].
 - Gemini. (2025). *Gemini - Economic Migration Study Search Plan* [online]. Available from: https://g.co/gemini/share/b6488c714b49 [accessed 15 April 2025].
 - Gemini. (2025). *Gemini - Migration Studies Table Creation Request* [online]. Available from: https://g.co/gemini/share/23bfee8c552f [accessed 15 April 2025].
 - Gemini. (2025). *Gemini - Social Factors in Migration Studies* [online]. Available from: https://g.co/gemini/share/7e2a1bcf42cc [accessed 27 April 2025].
-- ChatGPT. (2025). *Political Factors Migration Studies* [online]. Available from: https://chatgpt.com/share/6812a065-e1a0-800c-b6f6-6643e8025412 [accessed 30 April 2025].
+
+LLM Chats in Data Extraction
+- ChatGPT. (2025). *Selenium SVG Scraping* [online]. Available from: https://chatgpt.com/share/68135847-fa4c-800c-b609-f99a78e8db85 [accessed 1 May 2025].
