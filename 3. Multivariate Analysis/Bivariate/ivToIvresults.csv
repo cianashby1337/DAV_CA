@@ -1,154 +1,191 @@
 X Variable,Y Variable,Correlation,P-Value
-"Population ages 20-24, male (% of male population)","Population ages 20-24, female (% of female population)",0.9636197935238531,3.5304622727455437e-125
-Control of Corruption (cc),Rule of Law (rl),0.9421216776377282,5.260603172253872e-104
-Government Effectiveness (ge),Rule of Law (rl),0.9389575095760627,1.353191392600806e-101
-Government Effectiveness (ge),Regulatory Quality (rq),0.931374723322394,2.6210855256732096e-96
-Government Effectiveness (ge),Control of Corruption (cc),0.9226623802388797,6.186014163361929e-91
-Regulatory Quality (rq),Rule of Law (rl),0.9217742701342079,2.0106093458301125e-90
-Regulatory Quality (rq),Control of Corruption (cc),0.8799754639194386,1.918900105109094e-71
-Access to electricity (% of population),"Birth rate, crude (per 1,000 people)",-0.7841646713618167,1.936385909371757e-46
-Political Stability and Absence of Violence/Terrorism (pv),Rule of Law (rl),0.7789472980122348,1.8546114700989546e-45
-Political Stability and Absence of Violence/Terrorism (pv),Control of Corruption (cc),0.7523260986305047,7.727152990672823e-41
-Political Stability and Absence of Violence/Terrorism (pv),Government Effectiveness (ge),0.7332127848346522,7.204394089549669e-38
-"Birth rate, crude (per 1,000 people)","Population ages 20-24, female (% of female population)",0.7212584055675603,3.8720632653189036e-36
-Political Stability and Absence of Violence/Terrorism (pv),Regulatory Quality (rq),0.6786777141899997,1.2060562854277857e-30
-"Birth rate, crude (per 1,000 people)","Population ages 20-24, male (% of male population)",0.668767678772547,1.6956031029105063e-29
-GDP per capita (current US$),Government Effectiveness (ge),0.6396326672794674,2.3005333232501765e-26
-"Birth rate, crude (per 1,000 people)",Government Effectiveness (ge),-0.6297791494555349,2.2203394548525366e-25
-"Birth rate, crude (per 1,000 people)",Regulatory Quality (rq),-0.6188482387305632,2.5012188005012943e-24
-GDP per capita (current US$),Regulatory Quality (rq),0.6105777380849136,1.468707427542277e-23
-GDP per capita (current US$),Control of Corruption (cc),0.6090789718835323,2.0130245754620195e-23
-GDP per capita (current US$),Rule of Law (rl),0.604374862665905,5.356654718648423e-23
-"Birth rate, crude (per 1,000 people)",Rule of Law (rl),-0.5794644409513203,7.360674868902507e-21
-"Birth rate, crude (per 1,000 people)",Political Stability and Absence of Violence/Terrorism (pv),-0.5741914357653747,1.9788537356059985e-20
-"Birth rate, crude (per 1,000 people)",Control of Corruption (cc),-0.5465933296014776,2.650682199726423e-18
-"Population ages 20-24, male (% of male population)",GDP per capita (current US$),-0.5295067928268569,4.416847284449095e-17
-"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Political Stability and Absence of Violence/Terrorism (pv),-0.5263999370528838,7.243282416190685e-17
-"Birth rate, crude (per 1,000 people)","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",0.5261037802935044,7.590990646878424e-17
-"Population ages 20-24, female (% of female population)",GDP per capita (current US$),-0.5196582775815172,2.0825359344478903e-16
-"Population ages 20-24, female (% of female population)",Regulatory Quality (rq),-0.5163981120707739,3.441689126658382e-16
-Access to electricity (% of population),Government Effectiveness (ge),0.5147968705019585,4.396216666344403e-16
-"Population ages 20-24, female (% of female population)",Government Effectiveness (ge),-0.49912526595497625,4.514673028890128e-15
-"Population ages 20-24, male (% of male population)",Regulatory Quality (rq),-0.4977671258248312,5.4938218529854846e-15
-GDP per capita (current US$),Political Stability and Absence of Violence/Terrorism (pv),0.49158231208018166,1.3284522620170671e-14
-"Birth rate, crude (per 1,000 people)",GDP per capita (current US$),-0.484087893151598,3.7825024168221806e-14
-Access to electricity (% of population),"Population ages 20-24, female (% of female population)",-0.48335497563730384,4.1843528687470996e-14
-"Population ages 20-24, female (% of female population)",Rule of Law (rl),-0.48128281558516994,5.559522114153275e-14
-"Population ages 20-24, male (% of male population)",Government Effectiveness (ge),-0.4793018459002411,7.2818271050947e-14
-"Population ages 20-24, male (% of male population)",Rule of Law (rl),-0.47902895929471884,7.556599945821884e-14
-Access to electricity (% of population),Political Stability and Absence of Violence/Terrorism (pv),0.4756417716711456,1.193465146080473e-13
-Access to electricity (% of population),Fossil fuel energy consumption (% of total),0.4733459036670165,1.6222048406611876e-13
-Access to electricity (% of population),Regulatory Quality (rq),0.4724724835217438,1.822027395598488e-13
-Access to electricity (% of population),"Population ages 20-24, male (% of male population)",-0.46312963583276856,6.184902630723143e-13
-Access to electricity (% of population),"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",-0.4627294964877628,6.511890373842536e-13
-"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Government Effectiveness (ge),-0.450675591767568,2.9801441027519614e-12
-Access to electricity (% of population),Rule of Law (rl),0.4477311809106867,4.282366868063285e-12
-"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Control of Corruption (cc),-0.44385171248810873,6.868111085155171e-12
-"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Rule of Law (rl),-0.4353473858949199,1.894862859266788e-11
-"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Regulatory Quality (rq),-0.4314489694889556,2.989213185764208e-11
-"Population ages 20-24, female (% of female population)",Control of Corruption (cc),-0.42908609459088304,3.929439356143795e-11
-"Birth rate, crude (per 1,000 people)",Fossil fuel energy consumption (% of total),-0.4185604988995732,1.2953194975396104e-10
-"Population ages 20-24, female (% of female population)","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",0.41817910038172385,1.3514943859363934e-10
-"Population ages 20-24, male (% of male population)",Control of Corruption (cc),-0.41248308702872644,2.5318014975818925e-10
-Access to electricity (% of population),Control of Corruption (cc),0.40971523544970273,3.420294268811736e-10
-"Population ages 20-24, female (% of female population)",Political Stability and Absence of Violence/Terrorism (pv),-0.40629302274624407,4.942397230434728e-10
-"Population ages 20-24, male (% of male population)",Political Stability and Absence of Violence/Terrorism (pv),-0.40343642469308205,6.698973876156806e-10
-Current health expenditure (% of GDP),"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",-0.3883735969359215,3.1772089352401243e-09
-Current health expenditure (% of GDP),Control of Corruption (cc),0.3850122678294767,4.4495916849087745e-09
-"Population ages 20-24, male (% of male population)","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",0.38126996367829624,6.4452938058094335e-09
-Control of Corruption (cc),Tax revenue (% of GDP),0.3761015650683095,1.0670361295203906e-08
-Current health expenditure (% of GDP),Rule of Law (rl),0.36622161012280113,2.7301361314440133e-08
-Population density (people per sq. km of land area),GDP per capita (current US$),0.3655252965052582,2.9135697243713815e-08
-Rule of Law (rl),Tax revenue (% of GDP),0.36291620851202533,3.712354864021323e-08
-Current health expenditure (% of GDP),Tax revenue (% of GDP),0.35987733157100793,4.909395452626589e-08
-Regulatory Quality (rq),Tax revenue (% of GDP),0.34820424335436795,1.3984340810818976e-07
-GDP per capita (current US$),"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",-0.34221559848537025,2.3541067598682433e-07
-Current health expenditure (% of GDP),Regulatory Quality (rq),0.3396883999356372,2.923239154969216e-07
-Political Stability and Absence of Violence/Terrorism (pv),Tax revenue (% of GDP),0.3384722041373903,3.242076519395156e-07
-Population density (people per sq. km of land area),GDP per capita growth (annual %),-0.33492374804626307,4.374257413160347e-07
-Access to electricity (% of population),GDP per capita (current US$),0.33273886054225205,5.250403404119408e-07
-Current health expenditure (% of GDP),Government Effectiveness (ge),0.3316816463649133,5.732431540692955e-07
-Government Effectiveness (ge),Tax revenue (% of GDP),0.3284414462482988,7.48796495306215e-07
-"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Tax revenue (% of GDP),-0.3160792352010705,2.0178509954507867e-06
-"Birth rate, crude (per 1,000 people)",Current health expenditure (% of GDP),-0.287058084031206,1.74736193298499e-05
-"Population ages 20-24, female (% of female population)",Current health expenditure (% of GDP),-0.27758884050828053,3.3638953360141407e-05
-Current health expenditure (% of GDP),Political Stability and Absence of Violence/Terrorism (pv),0.26321387952226544,8.694105934397356e-05
-"Population ages 20-24, female (% of female population)",Fossil fuel energy consumption (% of total),-0.2619741332825333,9.412605210430356e-05
-Military expenditure (% of GDP),"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",0.2611110471400287,9.945287161910944e-05
-"Population ages 20-24, male (% of male population)",Fossil fuel energy consumption (% of total),-0.2603384342104951,0.00010445976669793189
-"Population ages 20-24, female (% of female population)",Tax revenue (% of GDP),-0.24872195518091808,0.0002146904391610863
-"Population ages 20-24, male (% of male population)",Current health expenditure (% of GDP),-0.24421591580434743,0.0002813482899088613
-Population density (people per sq. km of land area),Regulatory Quality (rq),0.22911823748744417,0.0006714391671581352
-"Birth rate, crude (per 1,000 people)",Tax revenue (% of GDP),-0.22742245468940656,0.000737813243879031
-Population density (people per sq. km of land area),Government Effectiveness (ge),0.2270463499791199,0.0007533313471722833
-Military expenditure (% of GDP),Fossil fuel energy consumption (% of total),0.22464619025967558,0.0008596646575270016
-"Birth rate, crude (per 1,000 people)",GDP per capita growth (annual %),0.22367153634343712,0.0009066617674076306
-Access to electricity (% of population),Current health expenditure (% of GDP),0.2186576576946224,0.0011880132857817803
-"Population ages 20-24, male (% of male population)",Tax revenue (% of GDP),-0.2049849917281708,0.0024096233826350366
-Current health expenditure (% of GDP),GDP per capita (current US$),0.18354278447873468,0.00670383197086992
-Population density (people per sq. km of land area),Rule of Law (rl),0.175084124972536,0.009759208559548026
-Access to electricity (% of population),Tax revenue (% of GDP),0.17262874153196245,0.010851444630391328
-Population density (people per sq. km of land area),Control of Corruption (cc),0.16795016528581844,0.013234575827273883
-Military expenditure (% of GDP),Political Stability and Absence of Violence/Terrorism (pv),-0.16523708689693856,0.014817468964244202
-GDP per capita (current US$),Tax revenue (% of GDP),0.1609517481038238,0.017655543690488145
-"Birth rate, crude (per 1,000 people)",Population density (people per sq. km of land area),-0.1574082491361129,0.020348634559732223
-"Unemployment, total (% of total labor force) (national estimate)",GDP per capita growth (annual %),-0.15482422181159725,0.022530480458438442
-Population density (people per sq. km of land area),Political Stability and Absence of Violence/Terrorism (pv),0.15236133304311725,0.024795090247132515
-Access to electricity (% of population),"Unemployment, total (% of total labor force) (national estimate)",0.1511769540975064,0.025952093011936357
-Government Effectiveness (ge),Fossil fuel energy consumption (% of total),0.14432439766715693,0.03359585732511901
-Population density (people per sq. km of land area),"Population ages 20-24, female (% of female population)",-0.14344648638244586,0.03470120939482189
-"Population ages 20-24, male (% of male population)","Unemployment, total (% of total labor force) (national estimate)",0.13963436176293703,0.03986534508163162
-Access to electricity (% of population),GDP per capita growth (annual %),-0.13708607365832015,0.04366691569753056
-Population density (people per sq. km of land area),"Population ages 20-24, male (% of male population)",-0.13597959560516015,0.0454098211278577
-"Population ages 20-24, female (% of female population)",GDP per capita growth (annual %),0.12211706772857689,0.07261679503198303
-"Unemployment, total (% of total labor force) (national estimate)",Tax revenue (% of GDP),0.11857743335607705,0.08136507768106906
-"Unemployment, total (% of total labor force) (national estimate)",GDP per capita (current US$),-0.11555031617602697,0.08950329817996652
-Current health expenditure (% of GDP),"Unemployment, total (% of total labor force) (national estimate)",0.11425919442789607,0.0931667579978435
-GDP per capita (current US$),Fossil fuel energy consumption (% of total),0.11234652836106031,0.0988123267217144
-GDP per capita growth (annual %),"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",0.10904502004945117,0.10919187917486407
-Political Stability and Absence of Violence/Terrorism (pv),Fossil fuel energy consumption (% of total),0.10861962223820862,0.11058935873484534
-GDP per capita growth (annual %),Fossil fuel energy consumption (% of total),-0.10329442735857257,0.12929346190998423
-"Population ages 20-24, female (% of female population)","Unemployment, total (% of total labor force) (national estimate)",0.10325780751122682,0.12943004451795362
-"Unemployment, total (% of total labor force) (national estimate)","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",-0.10002678748243267,0.14192448986503964
-Regulatory Quality (rq),Fossil fuel energy consumption (% of total),0.09633123856077264,0.15732001890443476
-"Population ages 20-24, male (% of male population)",GDP per capita growth (annual %),0.09546616826169681,0.16109902674510307
-Access to electricity (% of population),Population density (people per sq. km of land area),0.09311417102747445,0.17171741275188035
-GDP per capita growth (annual %),Political Stability and Absence of Violence/Terrorism (pv),-0.09120072238014025,0.1807327899272539
-Rule of Law (rl),Fossil fuel energy consumption (% of total),0.08975208053125672,0.18778690103931772
-Population density (people per sq. km of land area),Fossil fuel energy consumption (% of total),0.08652864759900267,0.20420316839622307
-Population density (people per sq. km of land area),"Unemployment, total (% of total labor force) (national estimate)",-0.08404222340031835,0.21755656432146206
-"Population ages 20-24, male (% of male population)",Military expenditure (% of GDP),-0.0820316742807768,0.228801460227247
-Military expenditure (% of GDP),Regulatory Quality (rq),0.08015995835449764,0.2396336156441944
-"Unemployment, total (% of total labor force) (national estimate)",Fossil fuel energy consumption (% of total),0.07987178558094314,0.2413327303809819
-"Unemployment, total (% of total labor force) (national estimate)",Government Effectiveness (ge),-0.07696765174984675,0.25892681923141453
-"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Fossil fuel energy consumption (% of total),-0.07497582210108396,0.27149237201632986
-Control of Corruption (cc),Fossil fuel energy consumption (% of total),0.07433703390184306,0.27560859635720847
-Current health expenditure (% of GDP),Fossil fuel energy consumption (% of total),0.07227388853073961,0.28919080334982045
-Population density (people per sq. km of land area),"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",-0.06912623589836853,0.3107618531066032
-Population density (people per sq. km of land area),Current health expenditure (% of GDP),-0.06801310878577475,0.31863624151388625
-Access to electricity (% of population),Military expenditure (% of GDP),0.06582494135075259,0.33449040959076665
-"Birth rate, crude (per 1,000 people)","Unemployment, total (% of total labor force) (national estimate)",-0.06463590705341443,0.3433135678096807
-"Unemployment, total (% of total labor force) (national estimate)",Rule of Law (rl),-0.05839635302323059,0.3920009185285766
-"Population ages 20-24, female (% of female population)",Military expenditure (% of GDP),-0.058237082848774734,0.3932957814183469
-GDP per capita growth (annual %),Tax revenue (% of GDP),-0.057200372220561436,0.40178691912883296
-Military expenditure (% of GDP),Government Effectiveness (ge),0.05674442401822236,0.40555566590371456
-GDP per capita growth (annual %),Regulatory Quality (rq),-0.05580113111107102,0.41341894038127036
-Military expenditure (% of GDP),GDP per capita growth (annual %),0.05521984440486876,0.41830885763303294
-"Unemployment, total (% of total labor force) (national estimate)",Political Stability and Absence of Violence/Terrorism (pv),-0.053774290658642775,0.43061479946309256
-Population density (people per sq. km of land area),Military expenditure (% of GDP),-0.05021594771245599,0.46177992736706885
-GDP per capita (current US$),GDP per capita growth (annual %),-0.04791569878816657,0.48257375165376937
-Military expenditure (% of GDP),Rule of Law (rl),0.043192466097034865,0.5268085280506372
-Military expenditure (% of GDP),GDP per capita (current US$),-0.03918168864925242,0.5659209791258124
-GDP per capita growth (annual %),Government Effectiveness (ge),-0.036247694397237754,0.5953824359998583
-"Birth rate, crude (per 1,000 people)",Military expenditure (% of GDP),-0.0347008430889703,0.6111896147559843
-Current health expenditure (% of GDP),GDP per capita growth (annual %),-0.033963373234387,0.6187902077194558
-Population density (people per sq. km of land area),Tax revenue (% of GDP),0.033788743987520034,0.620595976275108
-"Unemployment, total (% of total labor force) (national estimate)",Control of Corruption (cc),-0.03311930957781825,0.6275393042212055
-GDP per capita growth (annual %),Rule of Law (rl),-0.031258199396103484,0.6470138928469965
-GDP per capita growth (annual %),Control of Corruption (cc),-0.030804725666535387,0.6517962890503806
-"Unemployment, total (% of total labor force) (national estimate)",Military expenditure (% of GDP),0.02259295161591771,0.7406936050806268
-"Unemployment, total (% of total labor force) (national estimate)",Regulatory Quality (rq),-0.020749149422794228,0.7611877599215183
-Tax revenue (% of GDP),Fossil fuel energy consumption (% of total),-0.011283228070891806,0.8687412324762607
-Military expenditure (% of GDP),Tax revenue (% of GDP),-0.009042547869220761,0.8946375407309816
-Military expenditure (% of GDP),Control of Corruption (cc),0.008585854406603468,0.8999303325423165
-Current health expenditure (% of GDP),Military expenditure (% of GDP),0.0015308847238213442,0.9821120464781262
+"Population ages 20-24, male (% of male population)","Population ages 20-24, female (% of female population)",0.9508364467102564,2.682474356386141e-105
+Control of Corruption: Estimate,Rule of Law: Estimate,0.9428341463715826,7.916957593691944e-99
+Government Effectiveness: Estimate,Rule of Law: Estimate,0.936020624074909,5.134470320178148e-94
+Government Effectiveness: Estimate,Regulatory Quality: Estimate,0.9219106741634403,1.512061990972568e-85
+Government Effectiveness: Estimate,Control of Corruption: Estimate,0.9132758327194411,4.057736166085321e-81
+Regulatory Quality: Estimate,Rule of Law: Estimate,0.906097626310043,8.941806007217348e-78
+Regulatory Quality: Estimate,Control of Corruption: Estimate,0.855299775602432,7.021330302464616e-60
+"Birth rate, crude (per 1,000 people)",Individuals using the Internet (% of population),-0.8447249787085332,5.116440730625192e-57
+GDP (current US$),Total greenhouse gas emissions excluding LULUCF (Mt CO2e),0.827608583134923,8.247913843130765e-53
+Rule of Law: Estimate,Voice and Accountability: Estimate,0.7995182174451234,7.991056994427004e-47
+Individuals using the Internet (% of population),Government Effectiveness: Estimate,0.7979098843121405,1.6453991851716961e-46
+Access to electricity (% of population),"Birth rate, crude (per 1,000 people)",-0.79026943856882,4.661217279340639e-45
+Political Stability and Absence of Violence/Terrorism: Estimate,Rule of Law: Estimate,0.7859654965038084,2.885181247804645e-44
+Control of Corruption: Estimate,Voice and Accountability: Estimate,0.7840383888802254,6.437963036663316e-44
+Political Stability and Absence of Violence/Terrorism: Estimate,Control of Corruption: Estimate,0.7751474772663614,2.353939784634427e-42
+Access to electricity (% of population),Individuals using the Internet (% of population),0.7581357621575494,1.4849072754612825e-39
+Regulatory Quality: Estimate,Voice and Accountability: Estimate,0.7569200974868601,2.3062158564430092e-39
+Individuals using the Internet (% of population),Regulatory Quality: Estimate,0.7540358129057908,6.487405322705472e-39
+Political Stability and Absence of Violence/Terrorism: Estimate,Government Effectiveness: Estimate,0.7489840345552385,3.8370002632977546e-38
+Individuals using the Internet (% of population),Rule of Law: Estimate,0.7307393216669219,1.6793121269643898e-35
+"Birth rate, crude (per 1,000 people)",Government Effectiveness: Estimate,-0.7305246342564623,1.7985441534500368e-35
+Government Effectiveness: Estimate,Voice and Accountability: Estimate,0.7287249433294251,3.1880270136330763e-35
+Access to electricity (% of population),Renewable energy consumption (% of total final energy consumption),-0.7042165159939203,5.028522983324635e-32
+Individuals using the Internet (% of population),Control of Corruption: Estimate,0.6992305638361315,2.0520116755515545e-31
+Political Stability and Absence of Violence/Terrorism: Estimate,Voice and Accountability: Estimate,0.694757265394557,7.07123884222548e-31
+Current health expenditure per capita (current US$),Control of Corruption: Estimate,0.6918618963082791,1.5561699029555024e-30
+Current health expenditure per capita (current US$),Government Effectiveness: Estimate,0.69079065292661,2.078636201827176e-30
+"Birth rate, crude (per 1,000 people)","Population ages 20-24, female (% of female population)",0.6847828888381038,1.0300072891694377e-29
+Current health expenditure per capita (current US$),Rule of Law: Estimate,0.6803070734503398,3.310378207564274e-29
+"Birth rate, crude (per 1,000 people)",Regulatory Quality: Estimate,-0.6725411338954865,2.3909251741284547e-28
+Current health expenditure per capita (current US$),Regulatory Quality: Estimate,0.6650905343419615,1.5073719991370395e-27
+Political Stability and Absence of Violence/Terrorism: Estimate,Regulatory Quality: Estimate,0.65952497794631,5.764006206765002e-27
+"Birth rate, crude (per 1,000 people)",Rule of Law: Estimate,-0.6555325737964185,1.482562404957208e-26
+"Population ages 20-24, female (% of female population)",Individuals using the Internet (% of population),-0.6274061422600993,7.837277834928653e-24
+"Birth rate, crude (per 1,000 people)",Renewable energy consumption (% of total final energy consumption),0.6268380572718584,8.837246400800381e-24
+Individuals using the Internet (% of population),Renewable energy consumption (% of total final energy consumption),-0.6219166478978464,2.4754884702261402e-23
+"Birth rate, crude (per 1,000 people)",Control of Corruption: Estimate,-0.613077859462139,1.5048772587635813e-22
+Access to electricity (% of population),Government Effectiveness: Estimate,0.6112865405954979,2.154615681352315e-22
+"Birth rate, crude (per 1,000 people)","Population ages 20-24, male (% of male population)",0.6093238489895572,3.1843239721166447e-22
+"Population ages 20-24, female (% of female population)",Government Effectiveness: Estimate,-0.5899507839569651,1.3069382900965895e-20
+"Population ages 20-24, male (% of male population)",Individuals using the Internet (% of population),-0.5862618794871735,2.5781166214529848e-20
+Individuals using the Internet (% of population),Political Stability and Absence of Violence/Terrorism: Estimate,0.5851590374440039,3.153436432778233e-20
+"Birth rate, crude (per 1,000 people)",Political Stability and Absence of Violence/Terrorism: Estimate,-0.5810638992667428,6.61817052438986e-20
+"Population ages 20-24, female (% of female population)",Regulatory Quality: Estimate,-0.5740368846414978,2.3055688472492135e-19
+Individuals using the Internet (% of population),Current health expenditure per capita (current US$),0.5700988408027624,4.580540622639833e-19
+"Population ages 20-24, female (% of female population)",Rule of Law: Estimate,-0.5561127993156325,4.877800425498997e-18
+"Population ages 20-24, male (% of male population)",Government Effectiveness: Estimate,-0.5552763922376526,5.59939178962485e-18
+Current health expenditure per capita (current US$),Voice and Accountability: Estimate,0.5544034268767152,6.463945000162697e-18
+"Population ages 20-24, male (% of male population)",Rule of Law: Estimate,-0.5435582654334459,3.717037769513468e-17
+"Population ages 20-24, male (% of male population)",Regulatory Quality: Estimate,-0.5369351270506542,1.0491469783928964e-16
+"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Political Stability and Absence of Violence/Terrorism: Estimate,-0.5358517427864792,1.240545882597246e-16
+Access to electricity (% of population),Regulatory Quality: Estimate,0.5320816694061407,2.21230332373344e-16
+"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Voice and Accountability: Estimate,-0.531324664098638,2.4826419975595542e-16
+Access to electricity (% of population),Rule of Law: Estimate,0.5216964656030196,1.0494352317136954e-15
+"Birth rate, crude (per 1,000 people)",Voice and Accountability: Estimate,-0.5115345355932661,4.5768556216210334e-15
+Individuals using the Internet (% of population),Voice and Accountability: Estimate,0.5069016174736437,8.8141991487164e-15
+"Population ages 20-24, female (% of female population)",Current health expenditure per capita (current US$),-0.4950650394517142,4.498751089800287e-14
+"Population ages 20-24, female (% of female population)","Death rate, crude (per 1,000 people)",-0.4924316737597515,6.410712282497711e-14
+"Population ages 20-24, female (% of female population)",Control of Corruption: Estimate,-0.4912433990470652,7.514197909714397e-14
+Access to electricity (% of population),Control of Corruption: Estimate,0.489644823009037,9.29514557432287e-14
+"Population ages 20-24, male (% of male population)",Current health expenditure per capita (current US$),-0.48147903686598914,2.708296263570039e-13
+"Population ages 20-24, male (% of male population)",Control of Corruption: Estimate,-0.46934522722944966,1.2602543803329567e-12
+"Birth rate, crude (per 1,000 people)","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",0.46847615822476035,1.4037299385203538e-12
+"Birth rate, crude (per 1,000 people)",Current health expenditure per capita (current US$),-0.46455991568584293,2.273309091090671e-12
+"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Government Effectiveness: Estimate,-0.4632011315403297,2.6833878433852357e-12
+Access to electricity (% of population),Political Stability and Absence of Violence/Terrorism: Estimate,0.46242964554605576,2.9473811079031725e-12
+"Population ages 20-24, male (% of male population)","Death rate, crude (per 1,000 people)",-0.45230828245670757,9.879427760277178e-12
+"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Control of Corruption: Estimate,-0.447303292156742,1.7708097417085506e-11
+"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Rule of Law: Estimate,-0.44025069483771806,3.966086972306622e-11
+Current health expenditure per capita (current US$),Political Stability and Absence of Violence/Terrorism: Estimate,0.43596178698416105,6.418329106277565e-11
+Access to electricity (% of population),"Population ages 20-24, female (% of female population)",-0.4356778225760619,6.624615310613368e-11
+"Population ages 20-24, female (% of female population)",Voice and Accountability: Estimate,-0.4313216762079705,1.0723334973471808e-10
+Renewable energy consumption (% of total final energy consumption),Government Effectiveness: Estimate,-0.42921190377713636,1.3507340553915151e-10
+"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Regulatory Quality: Estimate,-0.4250377543311767,2.122590910029718e-10
+Access to electricity (% of population),Voice and Accountability: Estimate,0.41460848630924246,6.393520971221631e-10
+"Population ages 20-24, male (% of male population)",Voice and Accountability: Estimate,-0.411814587138782,8.536164815557683e-10
+Individuals using the Internet (% of population),"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",-0.4053098123930665,1.6560174401993584e-09
+Current health expenditure per capita (current US$),GDP (current US$),0.39736747130277095,3.6490511905270924e-09
+"Population ages 20-24, female (% of female population)",Political Stability and Absence of Violence/Terrorism: Estimate,-0.3941116789675316,5.014642293648108e-09
+Access to electricity (% of population),"Population ages 20-24, male (% of male population)",-0.3938623681530349,5.137482255295983e-09
+Access to electricity (% of population),"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",-0.3811146433729713,1.7245253918310933e-08
+"Population ages 20-24, male (% of male population)",Political Stability and Absence of Violence/Terrorism: Estimate,-0.3748217623341482,3.0768956175952634e-08
+"Population ages 20-24, female (% of female population)","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",0.3705960634277064,4.508013483083022e-08
+Current health expenditure per capita (current US$),"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",-0.36758239883036087,5.8998195125238866e-08
+Current health expenditure per capita (current US$),"Taxes on income, profits and capital gains (% of total taxes)",0.36141897342241897,1.0142012486053266e-07
+"Population ages 20-24, female (% of female population)",Renewable energy consumption (% of total final energy consumption),0.3613667903827685,1.018814579540153e-07
+"Population ages 20-24, male (% of male population)","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",0.34582994850734045,3.7974767837661837e-07
+Renewable energy consumption (% of total final energy consumption),Rule of Law: Estimate,-0.3441141538707576,4.3725573025144137e-07
+"Population ages 20-24, male (% of male population)",Renewable energy consumption (% of total final energy consumption),0.33935392280190385,6.437735569921927e-07
+Access to electricity (% of population),Current health expenditure per capita (current US$),0.32972277357047397,1.3809385700007813e-06
+Renewable energy consumption (% of total final energy consumption),Regulatory Quality: Estimate,-0.3289847544859953,1.4625489769707313e-06
+Renewable energy consumption (% of total final energy consumption),Political Stability and Absence of Violence/Terrorism: Estimate,-0.32554014677783955,1.9082529879839014e-06
+Renewable energy consumption (% of total final energy consumption),Control of Corruption: Estimate,-0.31833841475131686,3.2932813601127558e-06
+"Taxes on income, profits and capital gains (% of total taxes)",GDP (current US$),0.29925486980506316,1.3078711712216394e-05
+"Taxes on income, profits and capital gains (% of total taxes)",Voice and Accountability: Estimate,0.26510092584378514,0.00012232627166939916
+GDP growth (annual %),"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",0.23738825998175778,0.000609791061648711
+Population density (people per sq. km of land area),Government Effectiveness: Estimate,0.23455291219365335,0.000711526526234009
+"Taxes on income, profits and capital gains (% of total taxes)",Control of Corruption: Estimate,0.23340031390006846,0.0007571885619050282
+Population density (people per sq. km of land area),Regulatory Quality: Estimate,0.22939961193489408,0.0009374586289150566
+"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Renewable energy consumption (% of total final energy consumption),0.22793536401637063,0.0010127574817513439
+Renewable energy consumption (% of total final energy consumption),Voice and Accountability: Estimate,-0.2269780297805868,0.0010649510716692803
+GDP (current US$),Government Effectiveness: Estimate,0.2220484625325163,0.001374983859095509
+"Death rate, crude (per 1,000 people)",Voice and Accountability: Estimate,0.21843359760074943,0.0016526387081411107
+"Taxes on income, profits and capital gains (% of total taxes)",Government Effectiveness: Estimate,0.21423167048244895,0.0020391805413481037
+"Death rate, crude (per 1,000 people)","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",-0.21234444145279066,0.0022382246922530605
+"Taxes on income, profits and capital gains (% of total taxes)","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",-0.20296266777324107,0.0035154701256303483
+Population density (people per sq. km of land area),Rule of Law: Estimate,0.20128350450948224,0.003803708760496373
+"Taxes on income, profits and capital gains (% of total taxes)",Rule of Law: Estimate,0.1974737830793066,0.004538195875236203
+GDP (current US$),Regulatory Quality: Estimate,0.19671287732409706,0.00469933601865434
+Population density (people per sq. km of land area),Control of Corruption: Estimate,0.19589353262202058,0.004878584144537564
+"Taxes on income, profits and capital gains (% of total taxes)",Regulatory Quality: Estimate,0.1871334313353453,0.007215401171827326
+Population density (people per sq. km of land area),Political Stability and Absence of Violence/Terrorism: Estimate,0.1847581263092299,0.008000959713887059
+"Population ages 20-24, female (% of female population)",GDP (current US$),-0.18341234788558783,0.008478991985141678
+GDP (current US$),Rule of Law: Estimate,0.18039908991470768,0.009642314507004238
+Current health expenditure per capita (current US$),Renewable energy consumption (% of total final energy consumption),-0.1793945569542894,0.010060383291528066
+GDP growth (annual %),Renewable energy consumption (% of total final energy consumption),0.17776700129707962,0.01077180643053714
+"Population ages 20-24, male (% of male population)",GDP (current US$),-0.17657740789001705,0.011319516221045522
+"Birth rate, crude (per 1,000 people)",GDP (current US$),-0.17428598970124295,0.01244406365210004
+"Taxes on income, profits and capital gains (% of total taxes)",GDP growth (annual %),-0.17306688415575944,0.013081482646641059
+Population density (people per sq. km of land area),Individuals using the Internet (% of population),0.16402426089005914,0.018770964422056034
+GDP (current US$),Control of Corruption: Estimate,0.16098737487797654,0.021113116406837794
+Individuals using the Internet (% of population),GDP (current US$),0.1583201078822377,0.023374556598190283
+"Taxes on income, profits and capital gains (% of total taxes)",Political Stability and Absence of Violence/Terrorism: Estimate,0.15769344038842398,0.023935186159428093
+"Death rate, crude (per 1,000 people)",Current health expenditure per capita (current US$),0.1575988082217027,0.024020844057053042
+"Birth rate, crude (per 1,000 people)",Population density (people per sq. km of land area),-0.15743059494359898,0.024173756574824314
+Population density (people per sq. km of land area),Current health expenditure per capita (current US$),0.15499999531092,0.02647851461881029
+"Death rate, crude (per 1,000 people)",Renewable energy consumption (% of total final energy consumption),0.15418171714670403,0.02729569295003661
+Individuals using the Internet (% of population),GDP growth (annual %),-0.14982778604796404,0.03201620469734485
+"Taxes on income, profits and capital gains (% of total taxes)",Total greenhouse gas emissions excluding LULUCF (Mt CO2e),0.14617425963868982,0.03649707669243716
+Current health expenditure per capita (current US$),Total greenhouse gas emissions excluding LULUCF (Mt CO2e),0.1418556991872119,0.042466761073600305
+Population density (people per sq. km of land area),"Population ages 20-24, female (% of female population)",-0.13949905416201325,0.046056612742257905
+Population density (people per sq. km of land area),"Population ages 20-24, male (% of male population)",-0.12774149045311226,0.06795862684097975
+Access to electricity (% of population),GDP (current US$),0.1265054019481722,0.07068828955672113
+"Birth rate, crude (per 1,000 people)",Total greenhouse gas emissions excluding LULUCF (Mt CO2e),-0.12558913715006317,0.0727687522221053
+"Population ages 20-24, female (% of female population)",Total greenhouse gas emissions excluding LULUCF (Mt CO2e),-0.12416011258684728,0.07611251955229414
+GDP (current US$),Renewable energy consumption (% of total final energy consumption),-0.11970953780166509,0.08733015094461614
+"Population ages 20-24, male (% of male population)",Total greenhouse gas emissions excluding LULUCF (Mt CO2e),-0.11745053985127224,0.09351064665573139
+Population density (people per sq. km of land area),Renewable energy consumption (% of total final energy consumption),-0.11728396033042203,0.09397984946798217
+Population density (people per sq. km of land area),"Taxes on income, profits and capital gains (% of total taxes)",-0.1123169176582134,0.10885129079227406
+Total greenhouse gas emissions excluding LULUCF (Mt CO2e),Government Effectiveness: Estimate,0.1108521403184273,0.113572755238402
+Population density (people per sq. km of land area),GDP growth (annual %),0.11053886063609676,0.11460304401086949
+Access to electricity (% of population),"Death rate, crude (per 1,000 people)",-0.1101750604633899,0.11580862532282665
+"Death rate, crude (per 1,000 people)",Regulatory Quality: Estimate,0.1077148640928997,0.12422283765084419
+"Population ages 20-24, male (% of male population)",GDP growth (annual %),0.10597403345480255,0.13045731981591485
+Current health expenditure per capita (current US$),GDP growth (annual %),-0.10572268722530309,0.13137703814814536
+Access to electricity (% of population),Total greenhouse gas emissions excluding LULUCF (Mt CO2e),0.10494330033895977,0.13426068383866158
+GDP growth (annual %),Control of Corruption: Estimate,-0.10265951673126159,0.14299036274559676
+"Birth rate, crude (per 1,000 people)","Death rate, crude (per 1,000 people)",-0.10246294042842674,0.14376151972462292
+Total greenhouse gas emissions excluding LULUCF (Mt CO2e),Renewable energy consumption (% of total final energy consumption),-0.09993275946348894,0.15397185971212815
+Access to electricity (% of population),Population density (people per sq. km of land area),0.09696018477100224,0.16665548842513522
+GDP growth (annual %),Voice and Accountability: Estimate,-0.08998454849428866,0.19945383461269794
+GDP (current US$),Voice and Accountability: Estimate,0.08826629311016337,0.20820696273735007
+GDP growth (annual %),Total greenhouse gas emissions excluding LULUCF (Mt CO2e),0.08796743273925696,0.2097572124254031
+"Death rate, crude (per 1,000 people)",Control of Corruption: Estimate,0.08604982251501107,0.21990185737432874
+Population density (people per sq. km of land area),"Death rate, crude (per 1,000 people)",0.0848848341366523,0.2262330170012431
+GDP growth (annual %),Political Stability and Absence of Violence/Terrorism: Estimate,-0.08281947602334845,0.23777243167185383
+"Population ages 20-24, female (% of female population)",GDP growth (annual %),0.08253364746692596,0.23940132296704078
+Access to electricity (% of population),GDP growth (annual %),-0.08129320234484967,0.2465608687418801
+GDP growth (annual %),Rule of Law: Estimate,-0.08012329359766775,0.25344851175162975
+"Birth rate, crude (per 1,000 people)",GDP growth (annual %),0.07968503252393815,0.2560626200844973
+"Death rate, crude (per 1,000 people)","Taxes on income, profits and capital gains (% of total taxes)",-0.07804764251438315,0.2659933817733771
+"Death rate, crude (per 1,000 people)",Rule of Law: Estimate,0.07353820286785946,0.29469016456495434
+"Taxes on income, profits and capital gains (% of total taxes)",Renewable energy consumption (% of total final energy consumption),-0.0719012329512046,0.3055988394247248
+"Death rate, crude (per 1,000 people)",Political Stability and Absence of Violence/Terrorism: Estimate,0.06852785479363639,0.32890679579045873
+Population density (people per sq. km of land area),"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",-0.06606518183565707,0.34662588070252953
+Individuals using the Internet (% of population),"Taxes on income, profits and capital gains (% of total taxes)",0.06581718122394277,0.3484430956304982
+GDP (current US$),"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",-0.06361568490357489,0.3648370241151897
+Individuals using the Internet (% of population),Total greenhouse gas emissions excluding LULUCF (Mt CO2e),0.06312378816004992,0.3685643853347149
+Total greenhouse gas emissions excluding LULUCF (Mt CO2e),Voice and Accountability: Estimate,-0.059576691030091784,0.39613368007567384
+"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Total greenhouse gas emissions excluding LULUCF (Mt CO2e),0.055899094051125774,0.42598439261082466
+GDP growth (annual %),Government Effectiveness: Estimate,-0.05384093067450844,0.4432436100744028
+"Death rate, crude (per 1,000 people)",Government Effectiveness: Estimate,0.05374350701754509,0.4440702924153484
+Total greenhouse gas emissions excluding LULUCF (Mt CO2e),Regulatory Quality: Estimate,0.05084501341839244,0.46906155888097684
+Total greenhouse gas emissions excluding LULUCF (Mt CO2e),Political Stability and Absence of Violence/Terrorism: Estimate,-0.047301483339131194,0.5006355721834305
+Total greenhouse gas emissions excluding LULUCF (Mt CO2e),Rule of Law: Estimate,0.043497432079672924,0.5357362278368253
+Population density (people per sq. km of land area),Voice and Accountability: Estimate,0.041843286893675814,0.5513741165773305
+"Population ages 20-24, male (% of male population)","Taxes on income, profits and capital gains (% of total taxes)",0.03893763997587002,0.5793711861749772
+"Death rate, crude (per 1,000 people)",GDP (current US$),0.03833696340728762,0.5852404940492466
+GDP (current US$),Political Stability and Absence of Violence/Terrorism: Estimate,0.035321355249441244,0.6151123439149299
+"Birth rate, crude (per 1,000 people)","Taxes on income, profits and capital gains (% of total taxes)",-0.030328699535818182,0.6659704035770232
+Individuals using the Internet (% of population),"Death rate, crude (per 1,000 people)",-0.0265042013991113,0.7060039792279971
+Population density (people per sq. km of land area),Total greenhouse gas emissions excluding LULUCF (Mt CO2e),-0.026204927373641353,0.7091727887591912
+Access to electricity (% of population),"Taxes on income, profits and capital gains (% of total taxes)",-0.025653800556683024,0.7150213488306417
+Total greenhouse gas emissions excluding LULUCF (Mt CO2e),Control of Corruption: Estimate,0.02304204091296693,0.742958508389866
+Population density (people per sq. km of land area),GDP (current US$),-0.022974573427630377,0.7436848415918643
+GDP growth (annual %),Regulatory Quality: Estimate,-0.02000050168906488,0.7759191636431092
+"Population ages 20-24, female (% of female population)","Taxes on income, profits and capital gains (% of total taxes)",0.019633541313455953,0.7799243981267132
+GDP (current US$),GDP growth (annual %),0.011768972126686643,0.8669912290222349
+"Death rate, crude (per 1,000 people)",Total greenhouse gas emissions excluding LULUCF (Mt CO2e),-0.005719695391142551,0.9351290322524254
+"Death rate, crude (per 1,000 people)",GDP growth (annual %),0.0021673329891044634,0.9753957267253951

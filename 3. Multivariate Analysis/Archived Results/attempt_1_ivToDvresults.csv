@@ -1,0 +1,19 @@
+X Variable,Y Variable,Correlation,P-Value
+Current health expenditure (% of GDP),Net Migration,0.329107627503976,7.089542269648484e-07
+Regulatory Quality (rq),Net Migration,0.19677079448125054,0.0036098863806736476
+"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Net Migration,-0.19112125120003767,0.004724803058072444
+Government Effectiveness (ge),Net Migration,0.18694502914890382,0.005738482497686142
+Control of Corruption (cc),Net Migration,0.18339764891761398,0.006748060843364504
+Rule of Law (rl),Net Migration,0.1659415848595869,0.014391282083390047
+"Population ages 20-24, female (% of female population)",Net Migration,-0.14155524148490634,0.03718753986562495
+Political Stability and Absence of Violence/Terrorism (pv),Net Migration,0.13683643329117998,0.044055163894398404
+GDP per capita (current US$),Net Migration,0.12306829738801923,0.07040091660205784
+"Unemployment, total (% of total labor force) (national estimate)",Net Migration,0.11028367547453548,0.10520163924343208
+"Population ages 20-24, male (% of male population)",Net Migration,-0.10232337610440134,0.13295300512779773
+Tax revenue (% of GDP),Net Migration,0.10031943318241365,0.1407562659430282
+"Birth rate, crude (per 1,000 people)",Net Migration,-0.09269152637860702,0.17367940011439137
+Military expenditure (% of GDP),Net Migration,-0.06835735904924771,0.3161872377706519
+GDP per capita growth (annual %),Net Migration,-0.06046222389114275,0.37543909337014497
+Population density (people per sq. km of land area),Net Migration,-0.04606552091861387,0.4996588373566482
+Fossil fuel energy consumption (% of total),Net Migration,-0.018717204228888944,0.7839669134074264
+Access to electricity (% of population),Net Migration,0.007994433763670546,0.9067910664926828
