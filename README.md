@@ -10,7 +10,7 @@ Steps in creating the composite index:
 <br>
 
 Net Migration indicator: 
-- World Bank Group. (2025). *World Development Indicators | DataBank* [online]. Available from: https://databank.worldbank.org/source/world-development-indicators [accessed 1 mAY 2025].
+- World Bank Group. (2025). *World Development Indicators | DataBank* [online]. Available from: https://databank.worldbank.org/source/world-development-indicators [accessed 1 May 2025].
 
 <br>
 
