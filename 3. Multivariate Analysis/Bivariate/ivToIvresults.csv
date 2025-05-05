@@ -1,92 +1,92 @@
 X Variable,Y Variable,Correlation,P-Value
-"Population ages 20-24, male (% of male population)","Population ages 20-24, female (% of female population)",0.9508364467102564,2.682474356386141e-105
-Control of Corruption: Estimate,Rule of Law: Estimate,0.9428341463715826,7.916957593691944e-99
-Government Effectiveness: Estimate,Rule of Law: Estimate,0.936020624074909,5.134470320178148e-94
-Government Effectiveness: Estimate,Regulatory Quality: Estimate,0.9219106741634403,1.512061990972568e-85
-Government Effectiveness: Estimate,Control of Corruption: Estimate,0.9132758327194411,4.057736166085321e-81
-Regulatory Quality: Estimate,Rule of Law: Estimate,0.906097626310043,8.941806007217348e-78
-Regulatory Quality: Estimate,Control of Corruption: Estimate,0.855299775602432,7.021330302464616e-60
-Rule of Law: Estimate,Voice and Accountability: Estimate,0.7995182174451234,7.991056994427004e-47
-Individuals using the Internet (% of population),Government Effectiveness: Estimate,0.7979098843121405,1.6453991851716961e-46
-Political Stability and Absence of Violence/Terrorism: Estimate,Rule of Law: Estimate,0.7859654965038084,2.885181247804645e-44
-Control of Corruption: Estimate,Voice and Accountability: Estimate,0.7840383888802254,6.437963036663316e-44
-Political Stability and Absence of Violence/Terrorism: Estimate,Control of Corruption: Estimate,0.7751474772663614,2.353939784634427e-42
-Regulatory Quality: Estimate,Voice and Accountability: Estimate,0.7569200974868601,2.3062158564430092e-39
-Individuals using the Internet (% of population),Regulatory Quality: Estimate,0.7540358129057908,6.487405322705472e-39
-Political Stability and Absence of Violence/Terrorism: Estimate,Government Effectiveness: Estimate,0.7489840345552385,3.8370002632977546e-38
-Individuals using the Internet (% of population),Rule of Law: Estimate,0.7307393216669219,1.6793121269643898e-35
-Government Effectiveness: Estimate,Voice and Accountability: Estimate,0.7287249433294251,3.1880270136330763e-35
-Individuals using the Internet (% of population),Control of Corruption: Estimate,0.6992305638361315,2.0520116755515545e-31
-Political Stability and Absence of Violence/Terrorism: Estimate,Voice and Accountability: Estimate,0.694757265394557,7.07123884222548e-31
-Current health expenditure per capita (current US$),Control of Corruption: Estimate,0.6918618963082791,1.5561699029555024e-30
-Current health expenditure per capita (current US$),Government Effectiveness: Estimate,0.69079065292661,2.078636201827176e-30
-Current health expenditure per capita (current US$),Rule of Law: Estimate,0.6803070734503398,3.310378207564274e-29
-Current health expenditure per capita (current US$),Regulatory Quality: Estimate,0.6650905343419615,1.5073719991370395e-27
-Political Stability and Absence of Violence/Terrorism: Estimate,Regulatory Quality: Estimate,0.65952497794631,5.764006206765002e-27
-"Population ages 20-24, female (% of female population)",Individuals using the Internet (% of population),-0.6274061422600993,7.837277834928653e-24
-"Population ages 20-24, female (% of female population)",Government Effectiveness: Estimate,-0.5899507839569651,1.3069382900965895e-20
-"Population ages 20-24, male (% of male population)",Individuals using the Internet (% of population),-0.5862618794871735,2.5781166214529848e-20
-Individuals using the Internet (% of population),Political Stability and Absence of Violence/Terrorism: Estimate,0.5851590374440039,3.153436432778233e-20
-"Population ages 20-24, female (% of female population)",Regulatory Quality: Estimate,-0.5740368846414978,2.3055688472492135e-19
-Individuals using the Internet (% of population),Current health expenditure per capita (current US$),0.5700988408027624,4.580540622639833e-19
-"Population ages 20-24, female (% of female population)",Rule of Law: Estimate,-0.5561127993156325,4.877800425498997e-18
-"Population ages 20-24, male (% of male population)",Government Effectiveness: Estimate,-0.5552763922376526,5.59939178962485e-18
-Current health expenditure per capita (current US$),Voice and Accountability: Estimate,0.5544034268767152,6.463945000162697e-18
-"Population ages 20-24, male (% of male population)",Rule of Law: Estimate,-0.5435582654334459,3.717037769513468e-17
-"Population ages 20-24, male (% of male population)",Regulatory Quality: Estimate,-0.5369351270506542,1.0491469783928964e-16
-"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Political Stability and Absence of Violence/Terrorism: Estimate,-0.5358517427864792,1.240545882597246e-16
-"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Voice and Accountability: Estimate,-0.531324664098638,2.4826419975595542e-16
-Individuals using the Internet (% of population),Voice and Accountability: Estimate,0.5069016174736437,8.8141991487164e-15
-"Population ages 20-24, female (% of female population)",Current health expenditure per capita (current US$),-0.4950650394517142,4.498751089800287e-14
-"Population ages 20-24, female (% of female population)",Control of Corruption: Estimate,-0.4912433990470652,7.514197909714397e-14
-"Population ages 20-24, male (% of male population)",Current health expenditure per capita (current US$),-0.48147903686598914,2.708296263570039e-13
-"Population ages 20-24, male (% of male population)",Control of Corruption: Estimate,-0.46934522722944966,1.2602543803329567e-12
-"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Government Effectiveness: Estimate,-0.4632011315403297,2.6833878433852357e-12
-"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Control of Corruption: Estimate,-0.447303292156742,1.7708097417085506e-11
-"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Rule of Law: Estimate,-0.44025069483771806,3.966086972306622e-11
-Current health expenditure per capita (current US$),Political Stability and Absence of Violence/Terrorism: Estimate,0.43596178698416105,6.418329106277565e-11
-"Population ages 20-24, female (% of female population)",Voice and Accountability: Estimate,-0.4313216762079705,1.0723334973471808e-10
-"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Regulatory Quality: Estimate,-0.4250377543311767,2.122590910029718e-10
-"Population ages 20-24, male (% of male population)",Voice and Accountability: Estimate,-0.411814587138782,8.536164815557683e-10
-Individuals using the Internet (% of population),"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",-0.4053098123930665,1.6560174401993584e-09
-Current health expenditure per capita (current US$),GDP (current US$),0.39736747130277095,3.6490511905270924e-09
-"Population ages 20-24, female (% of female population)",Political Stability and Absence of Violence/Terrorism: Estimate,-0.3941116789675316,5.014642293648108e-09
-"Population ages 20-24, male (% of male population)",Political Stability and Absence of Violence/Terrorism: Estimate,-0.3748217623341482,3.0768956175952634e-08
-"Population ages 20-24, female (% of female population)","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",0.3705960634277064,4.508013483083022e-08
-Current health expenditure per capita (current US$),"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",-0.36758239883036087,5.8998195125238866e-08
-Current health expenditure per capita (current US$),"Taxes on income, profits and capital gains (% of total taxes)",0.36141897342241897,1.0142012486053266e-07
-"Population ages 20-24, male (% of male population)","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",0.34582994850734045,3.7974767837661837e-07
-"Taxes on income, profits and capital gains (% of total taxes)",GDP (current US$),0.29925486980506316,1.3078711712216394e-05
-"Taxes on income, profits and capital gains (% of total taxes)",Voice and Accountability: Estimate,0.26510092584378514,0.00012232627166939916
-GDP growth (annual %),"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",0.23738825998175778,0.000609791061648711
-"Taxes on income, profits and capital gains (% of total taxes)",Control of Corruption: Estimate,0.23340031390006846,0.0007571885619050282
-GDP (current US$),Government Effectiveness: Estimate,0.2220484625325163,0.001374983859095509
-"Taxes on income, profits and capital gains (% of total taxes)",Government Effectiveness: Estimate,0.21423167048244895,0.0020391805413481037
-"Taxes on income, profits and capital gains (% of total taxes)","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",-0.20296266777324107,0.0035154701256303483
-"Taxes on income, profits and capital gains (% of total taxes)",Rule of Law: Estimate,0.1974737830793066,0.004538195875236203
-GDP (current US$),Regulatory Quality: Estimate,0.19671287732409706,0.00469933601865434
-"Taxes on income, profits and capital gains (% of total taxes)",Regulatory Quality: Estimate,0.1871334313353453,0.007215401171827326
-"Population ages 20-24, female (% of female population)",GDP (current US$),-0.18341234788558783,0.008478991985141678
-GDP (current US$),Rule of Law: Estimate,0.18039908991470768,0.009642314507004238
-"Population ages 20-24, male (% of male population)",GDP (current US$),-0.17657740789001705,0.011319516221045522
-"Taxes on income, profits and capital gains (% of total taxes)",GDP growth (annual %),-0.17306688415575944,0.013081482646641059
-GDP (current US$),Control of Corruption: Estimate,0.16098737487797654,0.021113116406837794
-Individuals using the Internet (% of population),GDP (current US$),0.1583201078822377,0.023374556598190283
-"Taxes on income, profits and capital gains (% of total taxes)",Political Stability and Absence of Violence/Terrorism: Estimate,0.15769344038842398,0.023935186159428093
-Individuals using the Internet (% of population),GDP growth (annual %),-0.14982778604796404,0.03201620469734485
-"Population ages 20-24, male (% of male population)",GDP growth (annual %),0.10597403345480255,0.13045731981591485
-Current health expenditure per capita (current US$),GDP growth (annual %),-0.10572268722530309,0.13137703814814536
-GDP growth (annual %),Control of Corruption: Estimate,-0.10265951673126159,0.14299036274559676
-GDP growth (annual %),Voice and Accountability: Estimate,-0.08998454849428866,0.19945383461269794
-GDP (current US$),Voice and Accountability: Estimate,0.08826629311016337,0.20820696273735007
-GDP growth (annual %),Political Stability and Absence of Violence/Terrorism: Estimate,-0.08281947602334845,0.23777243167185383
-"Population ages 20-24, female (% of female population)",GDP growth (annual %),0.08253364746692596,0.23940132296704078
-GDP growth (annual %),Rule of Law: Estimate,-0.08012329359766775,0.25344851175162975
-Individuals using the Internet (% of population),"Taxes on income, profits and capital gains (% of total taxes)",0.06581718122394277,0.3484430956304982
-GDP (current US$),"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",-0.06361568490357489,0.3648370241151897
-GDP growth (annual %),Government Effectiveness: Estimate,-0.05384093067450844,0.4432436100744028
-"Population ages 20-24, male (% of male population)","Taxes on income, profits and capital gains (% of total taxes)",0.03893763997587002,0.5793711861749772
-GDP (current US$),Political Stability and Absence of Violence/Terrorism: Estimate,0.035321355249441244,0.6151123439149299
-GDP growth (annual %),Regulatory Quality: Estimate,-0.02000050168906488,0.7759191636431092
-"Population ages 20-24, female (% of female population)","Taxes on income, profits and capital gains (% of total taxes)",0.019633541313455953,0.7799243981267132
-GDP (current US$),GDP growth (annual %),0.011768972126686643,0.8669912290222349
+"Population ages 20-24, male (% of male population)","Population ages 20-24, female (% of female population)",0.9518226965753444,1.4702111918356799e-211
+Control of Corruption: Estimate,Rule of Law: Estimate,0.9470546603097978,2.0599052961295608e-203
+Government Effectiveness: Estimate,Rule of Law: Estimate,0.9361473286324995,2.611047545556634e-187
+Government Effectiveness: Estimate,Regulatory Quality: Estimate,0.9186690062431675,1.1408840578366017e-166
+Regulatory Quality: Estimate,Rule of Law: Estimate,0.913918388932192,7.401560543394602e-162
+Government Effectiveness: Estimate,Control of Corruption: Estimate,0.9098459308518436,5.995481939473179e-158
+Regulatory Quality: Estimate,Control of Corruption: Estimate,0.8549609387266043,2.2245254905066478e-118
+Rule of Law: Estimate,Voice and Accountability: Estimate,0.7931273400898723,6.862488440031472e-90
+Political Stability and Absence of Violence/Terrorism: Estimate,Rule of Law: Estimate,0.7745888660633259,3.384425314506074e-83
+Control of Corruption: Estimate,Voice and Accountability: Estimate,0.7744753672216274,3.7023721410960036e-83
+Political Stability and Absence of Violence/Terrorism: Estimate,Control of Corruption: Estimate,0.7731041987415658,1.0908928598604033e-82
+Regulatory Quality: Estimate,Voice and Accountability: Estimate,0.7446736051513642,1.2043466442244303e-73
+Political Stability and Absence of Violence/Terrorism: Estimate,Government Effectiveness: Estimate,0.7341730780171745,1.326447965742068e-70
+Government Effectiveness: Estimate,Voice and Accountability: Estimate,0.7131197072414105,6.394442565864386e-65
+Political Stability and Absence of Violence/Terrorism: Estimate,Voice and Accountability: Estimate,0.6915825290059003,1.2927458451013476e-59
+Political Stability and Absence of Violence/Terrorism: Estimate,Regulatory Quality: Estimate,0.6558157695362301,9.161740685217987e-52
+"Population ages 20-24, female (% of female population)",Individuals using the Internet (% of population),-0.6324095825834701,3.5091910277610756e-47
+Individuals using the Internet (% of population),Current health expenditure per capita (current US$),0.5879216741028532,1.77847132307327e-39
+"Population ages 20-24, male (% of male population)",Individuals using the Internet (% of population),-0.5843900538870411,6.477718685033037e-39
+"Population ages 20-24, female (% of female population)",Current health expenditure per capita (current US$),-0.5105809790858284,1.3353521585867615e-28
+"Population ages 20-24, male (% of male population)",Current health expenditure per capita (current US$),-0.4945103155608498,1.1325125527108884e-26
+Individuals using the Internet (% of population),"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",-0.42460898715364764,2.2389821569165384e-19
+Current health expenditure per capita (current US$),GDP (current US$),0.4039410657392282,1.5955886370287908e-17
+"Population ages 20-24, female (% of female population)","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",0.3672115782026792,1.556341230840831e-14
+Current health expenditure per capita (current US$),"Taxes on income, profits and capital gains (% of total taxes)",0.35975847889779694,5.673122442693497e-14
+Current health expenditure per capita (current US$),"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",-0.3551212834047132,1.2473245058104828e-13
+"Population ages 20-24, male (% of male population)","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",0.33621723328414477,2.7164131942823923e-12
+"Taxes on income, profits and capital gains (% of total taxes)",GDP (current US$),0.3094248723432333,1.5127643987240065e-10
+"Population ages 20-24, female (% of female population)",GDP (current US$),-0.1841196169620544,0.00017764450074489823
+"Population ages 20-24, male (% of male population)",GDP (current US$),-0.1763964046858347,0.00033190758323007496
+"Taxes on income, profits and capital gains (% of total taxes)","PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",-0.171536463406245,0.00048549098698340276
+Individuals using the Internet (% of population),GDP (current US$),0.16239575825921143,0.000966308595783834
+GDP (current US$),Government Effectiveness: Estimate,0.11799251969975305,0.016837952251686043
+"Population ages 20-24, female (% of female population)",Political Stability and Absence of Violence/Terrorism: Estimate,-0.10060507289668169,0.0417457044063275
+GDP growth (annual %),"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",0.09166134419088524,0.06370491893661484
+Current health expenditure per capita (current US$),Voice and Accountability: Estimate,-0.08663477460540776,0.0797462343786182
+GDP (current US$),Regulatory Quality: Estimate,0.08517639853545676,0.08496873971175388
+GDP (current US$),Political Stability and Absence of Violence/Terrorism: Estimate,0.08021334180313394,0.10483506922613399
+"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Voice and Accountability: Estimate,0.07495257513707636,0.12972875956314445
+Individuals using the Internet (% of population),GDP growth (annual %),-0.0735148008838222,0.1372717269493008
+"Population ages 20-24, male (% of male population)",GDP growth (annual %),0.07162042936134577,0.1477191100637013
+"Population ages 20-24, male (% of male population)",Political Stability and Absence of Violence/Terrorism: Estimate,-0.06867397899912125,0.16515663121634416
+"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Control of Corruption: Estimate,0.06482914061898674,0.1901752757516274
+Individuals using the Internet (% of population),"Taxes on income, profits and capital gains (% of total taxes)",0.06425464358120876,0.1941405645181857
+"Population ages 20-24, female (% of female population)",GDP growth (annual %),0.06190682606732853,0.21097435777359075
+GDP (current US$),"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",-0.06142470952952803,0.21455753314159767
+GDP (current US$),Control of Corruption: Estimate,0.06012710336898666,0.22441819551921344
+GDP (current US$),Voice and Accountability: Estimate,-0.058101865433102404,0.2404458445135126
+Individuals using the Internet (% of population),Voice and Accountability: Estimate,-0.057084554182192576,0.24879310124597115
+"Population ages 20-24, male (% of male population)",Voice and Accountability: Estimate,0.05587603184942071,0.2589690328816492
+"Population ages 20-24, female (% of female population)",Government Effectiveness: Estimate,-0.05385525556455082,0.2766188667118636
+"Taxes on income, profits and capital gains (% of total taxes)",Regulatory Quality: Estimate,0.05126888002262597,0.30037597606642014
+GDP growth (annual %),Control of Corruption: Estimate,0.0502367513908914,0.31022410773812553
+GDP growth (annual %),Political Stability and Absence of Violence/Terrorism: Estimate,0.04832002514298454,0.3290699177787632
+"Population ages 20-24, female (% of female population)",Rule of Law: Estimate,-0.047308330682455865,0.3393091412334974
+GDP (current US$),Rule of Law: Estimate,0.04634734498158835,0.34922162928077227
+Current health expenditure per capita (current US$),Political Stability and Absence of Violence/Terrorism: Estimate,-0.0451476072599601,0.3618511720830916
+Individuals using the Internet (% of population),Control of Corruption: Estimate,-0.043731559916395046,0.3771197314144742
+GDP growth (annual %),Voice and Accountability: Estimate,0.04078650772243855,0.4101184431142425
+GDP growth (annual %),Rule of Law: Estimate,0.03352472379733455,0.4984429256786278
+GDP growth (annual %),Government Effectiveness: Estimate,0.032734466917056046,0.5086277346817905
+"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Regulatory Quality: Estimate,0.03011879804390483,0.5430977953696681
+"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Rule of Law: Estimate,0.027326446866348247,0.5811319125484748
+"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Political Stability and Absence of Violence/Terrorism: Estimate,0.027049636410542564,0.5849689298521576
+"Taxes on income, profits and capital gains (% of total taxes)",Political Stability and Absence of Violence/Terrorism: Estimate,-0.024764144960500868,0.6170881142901639
+"Taxes on income, profits and capital gains (% of total taxes)",GDP growth (annual %),-0.024087945580264725,0.6267366284844114
+"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Government Effectiveness: Estimate,0.023989689651203017,0.6281439795069844
+Current health expenditure per capita (current US$),Control of Corruption: Estimate,-0.02349470979393949,0.6352541507552201
+"Population ages 20-24, female (% of female population)",Control of Corruption: Estimate,-0.02283485514962951,0.6447849399602453
+GDP (current US$),GDP growth (annual %),0.02245251533432143,0.6503342290779612
+"Population ages 20-24, female (% of female population)",Regulatory Quality: Estimate,-0.020661574775652346,0.6765816846299216
+"Taxes on income, profits and capital gains (% of total taxes)",Government Effectiveness: Estimate,0.01924799951272026,0.6975806648234808
+"Taxes on income, profits and capital gains (% of total taxes)",Control of Corruption: Estimate,-0.019241746149410516,0.6976740890681422
+Current health expenditure per capita (current US$),Regulatory Quality: Estimate,0.01806857030292172,0.7152805268566759
+"Population ages 20-24, female (% of female population)",Voice and Accountability: Estimate,0.01651755908598861,0.7387895561421971
+Current health expenditure per capita (current US$),Government Effectiveness: Estimate,0.01420662870657128,0.7742665891924425
+"Population ages 20-24, male (% of male population)",Regulatory Quality: Estimate,0.013762069808266617,0.7811481859300586
+"Population ages 20-24, male (% of male population)",Control of Corruption: Estimate,0.013668339986548855,0.7826012888268379
+Individuals using the Internet (% of population),Regulatory Quality: Estimate,-0.013663241295285018,0.7826803560813154
+Individuals using the Internet (% of population),Government Effectiveness: Estimate,-0.012931261176974525,0.7940542661682521
+GDP growth (annual %),Regulatory Quality: Estimate,-0.012920986403197585,0.7942142383935876
+Current health expenditure per capita (current US$),Rule of Law: Estimate,-0.012114972359692902,0.806789764188319
+"Population ages 20-24, male (% of male population)",Government Effectiveness: Estimate,-0.011505559129936074,0.8163312379906025
+Individuals using the Internet (% of population),Political Stability and Absence of Violence/Terrorism: Estimate,0.008867122514811511,0.8579369939799705
+Current health expenditure per capita (current US$),GDP growth (annual %),-0.0062437215868122635,0.899699494707492
+"Population ages 20-24, female (% of female population)","Taxes on income, profits and capital gains (% of total taxes)",-0.005365247811406686,0.9137520997280618
+"Taxes on income, profits and capital gains (% of total taxes)",Rule of Law: Estimate,0.003992526807987805,0.9357632394597339
+"Population ages 20-24, male (% of male population)",Rule of Law: Estimate,0.002412774635552502,0.9611536928777096
+Individuals using the Internet (% of population),Rule of Law: Estimate,0.0011304199620920273,0.9817943454247211
+"Population ages 20-24, male (% of male population)","Taxes on income, profits and capital gains (% of total taxes)",0.0007133390493907477,0.9885109246800584
+"Taxes on income, profits and capital gains (% of total taxes)",Voice and Accountability: Estimate,-0.0006672433171072181,0.9892532986321267
