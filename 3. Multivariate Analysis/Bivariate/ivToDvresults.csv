@@ -1,21 +1,21 @@
 X Variable,Y Variable,Correlation,P-Value
-GDP (current US$),Net Migration,0.38522216131428416,5.932388934222997e-16
-Current health expenditure per capita (current US$),Net Migration,0.3413604004144042,1.1991580937417945e-12
-"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Net Migration,-0.2382487951364648,1.0614632342703998e-06
-Individuals using the Internet (% of population),Net Migration,0.23346108593898418,1.7617545420623015e-06
-"Taxes on income, profits and capital gains (% of total taxes)",Net Migration,0.21958535197123114,7.2037708399895735e-06
-"Population ages 20-24, female (% of female population)",Net Migration,-0.1545874488301216,0.0016924027440864055
-"Birth rate, crude (per 1,000 people)",Net Migration,-0.14452310696595216,0.003358687983189887
-"Population ages 20-24, male (% of male population)",Net Migration,-0.13631063147891798,0.005699823040098665
-Renewable energy consumption (% of total final energy consumption),Net Migration,-0.11515751535193666,0.019679273799649948
-Voice and Accountability: Estimate,Net Migration,-0.09998768165610951,0.043022822876736956
-Total greenhouse gas emissions excluding LULUCF (Mt CO2e),Net Migration,0.08505030673281548,0.08543293172834676
-Access to electricity (% of population),Net Migration,0.058659122296697765,0.2359576993891127
-Political Stability and Absence of Violence/Terrorism: Estimate,Net Migration,-0.047361058327530195,0.3387705145680534
-GDP growth (annual %),Net Migration,-0.044986532341784576,0.3635682486482975
-"Death rate, crude (per 1,000 people)",Net Migration,0.041950442117203335,0.3968773300173816
-Regulatory Quality: Estimate,Net Migration,-0.01554844388669176,0.7536047631345806
-Population density (people per sq. km of land area),Net Migration,-0.011649325451130704,0.8140778119944412
-Control of Corruption: Estimate,Net Migration,0.005543884191126266,0.9108922009998167
-Rule of Law: Estimate,Net Migration,0.0012611942459711905,0.9796886275245206
-Government Effectiveness: Estimate,Net Migration,-7.835494914548366e-05,0.9987379682407641
+GDP (current US$),Net Migration,0.42686768439139355,1.7423714881978264e-10
+Current health expenditure per capita (current US$),Net Migration,0.3436717537381354,4.5338433462452443e-07
+"Taxes on income, profits and capital gains (% of total taxes)",Net Migration,0.28857073534875183,2.7160682263268187e-05
+"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Net Migration,-0.26499802424414975,0.00012309952227867224
+Regulatory Quality: Estimate,Net Migration,0.26374006851138776,0.00013292959836889607
+Rule of Law: Estimate,Net Migration,0.23131990069709896,0.0008465066658026153
+Government Effectiveness: Estimate,Net Migration,0.2230411968969779,0.001306591648701091
+Control of Corruption: Estimate,Net Migration,0.21665053649714244,0.0018076620629483059
+Voice and Accountability: Estimate,Net Migration,0.21340622237305132,0.0021241674375022767
+Individuals using the Internet (% of population),Net Migration,0.19017801847923324,0.0063093342797983275
+"Population ages 20-24, female (% of female population)",Net Migration,-0.1898873120447307,0.006391230119210192
+Political Stability and Absence of Violence/Terrorism: Estimate,Net Migration,0.18945012725471144,0.006516178862047864
+"Population ages 20-24, male (% of male population)",Net Migration,-0.15773426638844423,0.02389831308679752
+GDP growth (annual %),Net Migration,-0.1466897832109312,0.035834340754298054
+"Birth rate, crude (per 1,000 people)",Net Migration,-0.130184717208047,0.06281632659801673
+Total greenhouse gas emissions excluding LULUCF (Mt CO2e),Net Migration,0.12852873963025546,0.06626543437228835
+"Death rate, crude (per 1,000 people)",Net Migration,0.10981306361159911,0.11701802952865527
+Renewable energy consumption (% of total final energy consumption),Net Migration,-0.08853510534268443,0.20681963725519206
+Access to electricity (% of population),Net Migration,0.02088092546130585,0.7663339442162369
+Population density (people per sq. km of land area),Net Migration,-0.013330682266792515,0.8495382216070834
