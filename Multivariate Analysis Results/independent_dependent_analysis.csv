@@ -1,0 +1,21 @@
+X Variable,Y Variable,Correlation,P-Value
+GDP (current US$),Net Migration,0.4268676843913936,1.742371488197784e-10
+Current health expenditure per capita (current US$),Net Migration,0.3436717537381353,4.5338433462452925e-07
+"Taxes on income, profits and capital gains (% of total taxes)",Net Migration,0.2953381574192319,1.7154723522094168e-05
+"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Net Migration,-0.26499802424414975,0.00012309952227867224
+Regulatory Quality: Estimate,Net Migration,0.2637400685113876,0.00013292959836889553
+Rule of Law: Estimate,Net Migration,0.23131990069709893,0.0008465066658026153
+Government Effectiveness: Estimate,Net Migration,0.22304119689697788,0.001306591648701091
+Control of Corruption: Estimate,Net Migration,0.21665053649714233,0.0018076620629482827
+Voice and Accountability: Estimate,Net Migration,0.21340622237305137,0.0021241674375022767
+Individuals using the Internet (% of population),Net Migration,0.19017801847923319,0.0063093342797983275
+"Population ages 20-24, female (% of female population)",Net Migration,-0.1898873120447306,0.006391230119210192
+Political Stability and Absence of Violence/Terrorism: Estimate,Net Migration,0.1894501272547114,0.006516178862047976
+"Population ages 20-24, male (% of male population)",Net Migration,-0.15773426638844418,0.02389831308679752
+GDP growth (annual %),Net Migration,-0.14668978321093112,0.035834340754298304
+"Birth rate, crude (per 1,000 people)",Net Migration,-0.13018471720804692,0.06281632659801673
+Total greenhouse gas emissions excluding LULUCF (Mt CO2e),Net Migration,0.12852873963025546,0.06626543437228835
+"Death rate, crude (per 1,000 people)",Net Migration,0.10981306361159911,0.11701802952865527
+Renewable energy consumption (% of total final energy consumption),Net Migration,-0.08853510534268441,0.20681963725519206
+Access to electricity (% of population),Net Migration,0.02088092546130591,0.7663339442162369
+Population density (people per sq. km of land area),Net Migration,-0.013330682266792545,0.8495382216070834
